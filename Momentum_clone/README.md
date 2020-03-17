@@ -1,4 +1,4 @@
-# WebProject
+# Momentum_clone
 Momentum 클론코딩
 - clock.js : 실시간 시간 업데이트
 - greeting.js : USER 이름이 LS에 없으면 물어보고, 있으면 사용자 이름+인삿말을 띄움 (*LS: Local Storage)
