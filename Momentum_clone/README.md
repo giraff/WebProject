@@ -3,6 +3,7 @@ Momentum 클론코딩
 - clock.js : 실시간 시간 업데이트
 - greeting.js : USER 이름이 LS에 없으면 물어보고, 있으면 사용자 이름+인삿말을 띄움 (*LS: Local Storage)
 - todo.js : ToDoList 생성
+- bg.js : 새로고침할 때 마다 배경이미지를 랜덤하게
 - weather : openWeatherMap API를 이용. 현재 위치(위도,경도)를 입력하여 날씨 정보를 가져옴.
 
 새로 알게된 사실
