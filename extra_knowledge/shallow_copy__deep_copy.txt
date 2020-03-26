@@ -1,0 +1,44 @@
+var firstObj = {};
+
+var secondObj = { arr:[], str:''};
+
+var testArr = [];
+
+var testStr = 'a';
+
+one();
+
+function one() {
+	
+  console.log('첫번째 오브젝트-1 : ', firstObj); // {}
+  console.log('두번째 오브젝트-1 : ', secondObj);// { arr;[], str: ''}
+  
+  secondObj.arr = testArr;
+  secondObj.str = testStr;
+  
+  console.log('JSON 문자열 : ', JSON.stringify(secondObj));
+  console.log('JSON 객체 : ', JSON.parse(JSON.stringify(secondObj)));
+  
+  firstObj = JSON.parse(JSON.stringify(secondObj));
+  
+  console.log('첫번째 오브젝트-2 : ', firstObj); // { arr;[], str: 'a'}
+  console.log('두번째 오브젝트-2 : ', secondObj);// { arr;[], str: 'a'}
+ 
+ 	two();
+  
+}
+
+function two() {
+
+	console.log('before 첫번째 오브젝트-3 : ', firstObj); // { arr;[], str: 'a'}
+  console.log('before 두번째 오브젝트-3 : ', secondObj);// { arr;[], str: 'a'}
+
+	testArr.push('1');
+  testStr = '현정이';
+  
+  console.log('첫번째 오브젝트-4 : ', firstObj); // { arr;[], str: '현정이'}
+  console.log('두번째 오브젝트-4 : ', secondObj);// { arr;[], str: '현정이'}
+}
+
+// 배열 , 객체는 주소값으로 
+// js는 일반값으로 인식하나봐
