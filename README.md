@@ -7,7 +7,7 @@
   </a>
   <img alt="" src="https://img.shields.io/badge/node-v.12.14.0-informational">
   <img alt="" src="https://img.shields.io/badge/npm-v.6.13.4-informational">
-  <img alt="" src="https://img.shields.io/badge/yarn-v.1.22.4-informational">
+  <img alt="" src="https://img.shields.io/badge/yarn-v.1.22.4-informational"><br >
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Hanswind/EZ.ai?color=blueviolet"> 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Hanswind/EZ.ai?color=green"> 
   <a href="https://github.com/Hanswind/EZ.ai/issues">
