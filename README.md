@@ -41,7 +41,7 @@
 3. 하나의 구조로 서로 다른 메신저 플랫폼에 쉽게 호환
 
 ## 시연 동영상
-<p align='middle'><a href='https://youtu.be/AShaYbjAqqE' align='middle'></a></p>
+<p align='middle'><a href='https://youtu.be/AShaYbjAqqE' align='middle'><img src='./docs/thumbnail.gif' /></a></p>
 
 ## 사용기술
 
