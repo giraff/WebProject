@@ -29,14 +29,14 @@
 ---
 
 ## 시스템 소개
-### 🍀EZAI란?
+### EZAI란?
 > 챗봇(chatbot)을 보다 쉽게 제작할 수 있도록하는 **'챗봇 빌더(Chatbot Builder)' 플랫폼 사이트** 입니다.
 
 ### 📽시연 동영상
 > 아래 영상을 누르면 시연 영상 페이지로 이동합니다.
 <p align='middle'><a href='https://youtu.be/AShaYbjAqqE' align='middle'><img src='./docs/thumbnail.gif' /></a></p>
 
-### 🍀프로젝트 목표
+### 프로젝트 목표
 #### 🌈 쉬운 챗봇 생성
 - 만들고 싶은 챗봇의 이름을 정하기만 하면 챗봇 생성이 완료된다.
 - 호환이 가능하여 먼저 메신저 플랫폼과 연동하지 않고도 미리 챗봇을 만들어 볼 수 있다.
@@ -49,18 +49,18 @@
 - 히스토리를 커밋형으로 구현하여 수월하게 버전 관리를 할 수 있도록 하였다.
 - 히스토리 상의 배포 버튼을 클릭하여 간편하게 배포할 수 있다.
 
-### ⚙사용기술
+### 사용기술
 - FrontEnd : React
 - BackEnd : Express
 - Server : Node.js
 
-### 🎨시스템 구성 UI
+### 시스템 구성 UI
 
 
-### ⚙시스템 아키텍처
+### 시스템 아키텍처
 <p align='middle'><a href='./docs/system-architecture.png'><img src='./docs/system-architecture.png' /></a></p>
 
-### ⚙ER 다이어그램
+### ER 다이어그램
 <p align='middle'><a href='./docs/ERDiagrm.png'><img src='./docs/ERDiagrm.png' /></a></p>
 
 ---
