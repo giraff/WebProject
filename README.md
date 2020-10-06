@@ -62,48 +62,48 @@
     <th align='middle'><img alt="챗봇" src="./docs/botList.png"></th>
   </tr>
   <tr>
-    <td align='middle'>메인 페이지</td>
-    <td align='middle'>챗봇 목록 </td>
+    <td align='middle'><strong>메인 페이지</strong></td>
+    <td align='middle'><strong>챗봇 목록</strong> </td>
   </tr>
   <tr>
     <td align='middle'><img alt="연동" src="./docs/botConnection.png"></td>
     <td align='middle'><img alt="빌드" src="./docs/botBuild.png"></td>
   </tr>
   <tr>
-    <td align='middle'>챗봇 메신저 연동</td>
-    <td align='middle'>챗봇 빌드 페이지</td>
+    <td align='middle'><strong>챗봇 메신저 연동</strong></td>
+    <td align='middle'><strong>챗봇 빌드 페이지</strong></td>
   </tr>
   <tr>
     <td align='middle'><img alt="키워드" src="./docs/keyword.png"></td>
     <td align='middle'><img alt="요소" src="./docs/element.png"></td>
   </tr>
   <tr>
-    <td align='middle'>키워드 탭</td>
-    <td align='middle'>요소 탭</td>
+    <td align='middle'><strong>키워드 탭</strong></td>
+    <td align='middle'><strong>요소 탭</strong></td>
   </tr>
   <tr>
     <td align='middle'><img alt="사이드바" src="./docs/sidebar.png"></td>
     <td align='middle'><img alt="저장" src="./docs/save.png"></td>
   </tr>
   <tr>
-    <td align='middle'>사이드 바</td>
-    <td align='middle'>저장및 배포</td>
+    <td align='middle'><strong>사이드 바</strong></td>
+    <td align='middle'><strong>저장및 배포</strong></td>
   </tr>
   <tr>    
     <td align='middle'><img alt="메인프리뷰" src="./docs/main-preview.png"></td>
     <td align='middle'><img alt="미리보기" src="./docs/preview.png"></td>
   </tr>
   <tr>
-    <td align='middle'>메인 프리뷰</td>
-    <td align='middle'>미리보기</td>
+    <td align='middle'><strong>메인 프리뷰</strong></td>
+    <td align='middle'><strong>미리보기</strong></td>
   </tr>
   <tr>
     <td align='middle'><img alt="히스토리" src="./docs/history.png"></td>
     <td align='middle'><center><img alt="설정" src="./docs/settings.png"></center></td>
   </tr>
   <tr>
-    <td align='middle'>히스토리</td>
-    <td align='middle'>설정 페이지</td>
+    <td align='middle'><strong>히스토리</strong></td>
+    <td align='middle'><strong>설정 페이지</strong></td>
   </tr>
 </table>
 
