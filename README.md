@@ -5,12 +5,15 @@
   <a href="https://github.com/Hanswind/EZ.ai/tree/master/documents">
     <img alt="Document" src="https://img.shields.io/badge/document-yes-important">
   </a>
-  <img alt="npm" src="https://img.shields.io/npm/v/yarn?label=yarn"> 
+  <img alt="" src="https://img.shields.io/badge/node-v.12.14.0-informational">
+  <img alt="" src="https://img.shields.io/badge/npm-v.6.13.4-informational">
+  <img alt="" src="https://img.shields.io/badge/yarn-v.1.22.4-informational">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Hanswind/EZ.ai?color=blueviolet"> 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Hanswind/EZ.ai"> 
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Hanswind/EZ.ai?color=green"> 
   <a href="https://github.com/Hanswind/EZ.ai/issues">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/Hanswind/EZ.ai">
   </a>
+
 </div>
 
 <h1 align='middle'><a href='https://botezai.com/'>🏠https://botezai.com/</a></h1>
