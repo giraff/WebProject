@@ -39,7 +39,9 @@
 1. UX/UI와 기능별 도움말을 통한 직관적이고 단순화된 사용법
 2. 챗봇 빌더 기능의 선택과 집중
 3. 하나의 구조로 서로 다른 메신저 플랫폼에 쉽게 호환
+
 ## 시연 동영상
+<p align='middle'><a href='https://youtu.be/AShaYbjAqqE' align='middle'></a></p>
 
 ## 사용기술
 
