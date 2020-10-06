@@ -58,54 +58,53 @@
 ### 화면 구성 UI
 <table>
   <tr>
-    <th><img alt="메인" src="./docs/main.png"></th>
-    <th><img alt="챗봇" src="./docs/botList.png"></th>
+    <th align='middle'><img alt="메인" src="./docs/main.png"></th>
+    <th align='middle'><img alt="챗봇" src="./docs/botList.png"></th>
   </tr>
   <tr>
-    <td>메인 페이지</td>
-    <td>챗봇 목록 </td>
+    <td align='middle'>메인 페이지</td>
+    <td align='middle'>챗봇 목록 </td>
   </tr>
   <tr>
-    <td><img alt="연동" src="./docs/botConnection.png"></td>
-    <td><img alt="빌드" src="./docs/botBuild.png"></td>
+    <td align='middle'><img alt="연동" src="./docs/botConnection.png"></td>
+    <td align='middle'><img alt="빌드" src="./docs/botBuild.png"></td>
   </tr>
   <tr>
-    <td>챗봇 메신저 연동</td>
-    <td>챗봇 빌드 페이지</td>
+    <td align='middle'>챗봇 메신저 연동</td>
+    <td align='middle'>챗봇 빌드 페이지</td>
   </tr>
   <tr>
-    <td><img alt="키워드" src="./docs/keyword.png"></td>
-    <td><img alt="요소" src="./docs/element.png"></td>
+    <td align='middle'><img alt="키워드" src="./docs/keyword.png"></td>
+    <td align='middle'><img alt="요소" src="./docs/element.png"></td>
   </tr>
   <tr>
-    <td>키워드 탭</td>
-    <td>요소 탭</td>
+    <td align='middle'>키워드 탭</td>
+    <td align='middle'>요소 탭</td>
   </tr>
   <tr>
-    <td><img alt="사이드바" src="./docs/sidebar.png"></td>
-    <td><img alt="저장" src="./docs/save.png"></td>
+    <td align='middle'><img alt="사이드바" src="./docs/sidebar.png"></td>
+    <td align='middle'><img alt="저장" src="./docs/save.png"></td>
   </tr>
   <tr>
-    <td>사이드 바</td>
-    <td>저장및 배포</td>
+    <td align='middle'>사이드 바</td>
+    <td align='middle'>저장및 배포</td>
   </tr>
   <tr>    
-    <td><img alt="메인프리뷰" src="./docs/main-preview.png"></td>
-    <td><img alt="미리보기" src="./docs/preview.png"></td>
+    <td align='middle'><img alt="메인프리뷰" src="./docs/main-preview.png"></td>
+    <td align='middle'><img alt="미리보기" src="./docs/preview.png"></td>
   </tr>
   <tr>
-    <td>메인 프리뷰</td>
-    <td>미리보기</td>
+    <td align='middle'>메인 프리뷰</td>
+    <td align='middle'>미리보기</td>
   </tr>
   <tr>
-    <td><img alt="히스토리" src="./docs/history.png"></td>
-    <td><img alt="설정" src="./docs/settings.png"></td>
+    <td align='middle'><img alt="히스토리" src="./docs/history.png"></td>
+    <td align='middle'><center><img alt="설정" src="./docs/settings.png"></center></td>
   </tr>
   <tr>
-    <td>히스토리</td>
-    <td>설정 페이지</td>
+    <td align='middle'>히스토리</td>
+    <td align='middle'>설정 페이지</td>
   </tr>
-
 </table>
 
 ### 시스템 아키텍처
