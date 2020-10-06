@@ -57,7 +57,7 @@
 3. 하나의 구조로 서로 다른 메신저 플랫폼에 쉽게 호환
 
 ## ER 다이어그램
-<p align='middle'><a href='./docs/ERDiagram.png'><img src='./docs/ERDiagram.png' /></a></p>
+<p align='middle'><a href='./docs/ERDiagrm.png'><img src='./docs/ERDiagam.png' /></a></p>
 
 ---
 ## 팀원 소개
