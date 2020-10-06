@@ -26,6 +26,14 @@
 </p>
 
 
+## 👨‍👨‍👧참여자
+- **2020 상명대학교 졸업 프로젝트 EZ.ai 팀**
+> [한창희](https://github.com/Hanswind) <br />
+> [최건우](https://github.com/CHOIKEONWOO) <br />
+> [장준영](https://github.com/junyeongjang) <br />
+> [황현정](https://github.com/giraff) <br />
+
+
 ---
 
 ## 시스템 소개
@@ -59,50 +67,74 @@
 <table>
   <tr>
     <th align='middle'><img alt="메인" src="./docs/main.png"></th>
-    <th align='middle'><img alt="챗봇" src="./docs/botList.png"></th>
   </tr>
   <tr>
     <td align='middle'><strong>메인 페이지</strong></td>
+  </tr>
+  <tr>
+    <td align='middle'><img alt="챗봇" src="./docs/botList.png"></th>
+  </tr>
+  <tr>
     <td align='middle'><strong>챗봇 목록</strong> </td>
   </tr>
   <tr>
     <td align='middle'><img alt="연동" src="./docs/botConnection.png"></td>
-    <td align='middle'><img alt="빌드" src="./docs/botBuild.png"></td>
   </tr>
   <tr>
     <td align='middle'><strong>챗봇 메신저 연동</strong></td>
+  </tr>
+  <tr>
+    <td align='middle'><img alt="빌드" src="./docs/botBuild.png"></td>
+  </tr>
+  <tr>
     <td align='middle'><strong>챗봇 빌드 페이지</strong></td>
   </tr>
   <tr>
     <td align='middle'><img alt="키워드" src="./docs/keyword.png"></td>
-    <td align='middle'><img alt="요소" src="./docs/element.png"></td>
   </tr>
   <tr>
     <td align='middle'><strong>키워드 탭</strong></td>
+  </tr>
+  <tr>
+    <td align='middle'><img alt="요소" src="./docs/element.png"></td>
+  </tr>
+  <tr>
     <td align='middle'><strong>요소 탭</strong></td>
   </tr>
   <tr>
     <td align='middle'><img alt="사이드바" src="./docs/sidebar.png"></td>
-    <td align='middle'><img alt="저장" src="./docs/save.png"></td>
   </tr>
   <tr>
     <td align='middle'><strong>사이드 바</strong></td>
+  </tr>
+  <tr>
+    <td align='middle'><img alt="저장" src="./docs/save.png"></td>
+  </tr>
+  <tr>
     <td align='middle'><strong>저장및 배포</strong></td>
   </tr>
   <tr>    
     <td align='middle'><img alt="메인프리뷰" src="./docs/main-preview.png"></td>
-    <td align='middle'><img alt="미리보기" src="./docs/preview.png"></td>
   </tr>
   <tr>
     <td align='middle'><strong>메인 프리뷰</strong></td>
+  </tr>
+  <tr>
+    <td align='middle'><img alt="미리보기" src="./docs/preview.png"></td>
+  </tr>
+  <tr>
     <td align='middle'><strong>미리보기</strong></td>
   </tr>
   <tr>
     <td align='middle'><img alt="히스토리" src="./docs/history.png"></td>
-    <td align='middle'><center><img alt="설정" src="./docs/settings.png"></center></td>
   </tr>
   <tr>
     <td align='middle'><strong>히스토리</strong></td>
+  </tr>
+  <tr>
+    <td align='middle'><center><img alt="설정" src="./docs/settings.png"></center></td>
+  </tr>
+  <tr>
     <td align='middle'><strong>설정 페이지</strong></td>
   </tr>
 </table>
@@ -112,11 +144,3 @@
 
 ### ER 다이어그램
 <p align='middle'><a href='./docs/ERDiagrm.png'><img src='./docs/ERDiagrm.png' /></a></p>
-
----
-## 👨‍👨‍👧참여자
-- **2020 상명대학교 졸업 프로젝트 EZ.ai 팀**
-> 한창희 <br />
-> 최건우 <br />
-> 장준영 <br />
-> 황현정 <br />
